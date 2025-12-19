@@ -20,6 +20,13 @@ Here's what I'm using for this project:
 
 <br>
 
+
+## Contact
+If you have any questions or comments about my CI/CD project, please contact me on:
+Steeve-Johan (steevemefire4@gmail.com)
+💡
+<br>
+
 Let's started!!
 
 # Set-Up-Web-App-in-the-Cloud-Build-a-CI-CD-Pipeline-Series Part 1
